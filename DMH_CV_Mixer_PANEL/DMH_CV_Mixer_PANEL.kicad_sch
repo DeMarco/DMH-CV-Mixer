@@ -1342,7 +1342,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Offset C"
+		(property "Value" "In C1"
 			(at 104.14 88.8999 0)
 			(effects
 				(font
@@ -1351,7 +1351,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny"
+		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny_attv_P110KH1"
 			(at 101.6 90.17 0)
 			(effects
 				(font
@@ -1409,7 +1409,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV B"
+		(property "Value" "In B2"
 			(at 40.64 215.8999 0)
 			(effects
 				(font
@@ -1476,7 +1476,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV C"
+		(property "Value" "In C2"
 			(at 104.14 139.6999 0)
 			(effects
 				(font
@@ -1543,7 +1543,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Offset A"
+		(property "Value" "In A1"
 			(at 40.64 88.8999 0)
 			(effects
 				(font
@@ -1552,7 +1552,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny"
+		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny_attv_P110KH1"
 			(at 38.1 90.17 0)
 			(effects
 				(font
@@ -1743,7 +1743,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "In A"
+		(property "Value" "In A1"
 			(at 40.64 126.9999 0)
 			(effects
 				(font
@@ -1810,7 +1810,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV D Amt"
+		(property "Value" "In D2"
 			(at 104.14 177.7999 0)
 			(effects
 				(font
@@ -2010,7 +2010,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV A"
+		(property "Value" "In A2"
 			(at 40.64 139.6999 0)
 			(effects
 				(font
@@ -2077,7 +2077,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Offset D"
+		(property "Value" "In D1"
 			(at 104.14 165.0999 0)
 			(effects
 				(font
@@ -2086,7 +2086,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny"
+		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny_attv_P110KH1"
 			(at 101.6 166.37 0)
 			(effects
 				(font
@@ -2144,7 +2144,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "In C"
+		(property "Value" "In C1"
 			(at 104.14 126.9999 0)
 			(effects
 				(font
@@ -2211,7 +2211,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV C Amt"
+		(property "Value" "In C2"
 			(at 104.14 101.5999 0)
 			(effects
 				(font
@@ -2278,7 +2278,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "In B"
+		(property "Value" "In B1"
 			(at 40.64 203.1999 0)
 			(effects
 				(font
@@ -2411,7 +2411,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV D"
+		(property "Value" "In D2"
 			(at 104.14 215.8999 0)
 			(effects
 				(font
@@ -2478,7 +2478,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "In D"
+		(property "Value" "In D1"
 			(at 104.14 203.1999 0)
 			(effects
 				(font
@@ -2679,7 +2679,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV A Amt"
+		(property "Value" "In A2"
 			(at 40.64 101.5999 0)
 			(effects
 				(font
@@ -2746,7 +2746,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV B Amt"
+		(property "Value" "In B2"
 			(at 40.64 177.7999 0)
 			(effects
 				(font
@@ -2959,7 +2959,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Offset B"
+		(property "Value" "In B1"
 			(at 40.64 165.0999 0)
 			(effects
 				(font
@@ -2968,7 +2968,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny"
+		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny_attv_P110KH1"
 			(at 38.1 166.37 0)
 			(effects
 				(font
