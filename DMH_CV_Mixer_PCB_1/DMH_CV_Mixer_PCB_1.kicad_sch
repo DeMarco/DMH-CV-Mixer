@@ -45,28 +45,8 @@
 				(hide yes)
 			)
 		)
-		(pin "Bus Gate" output
-			(at 127 95.25 180)
-			(uuid "35434339-bc2b-4868-9a18-95483283b276")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "Bus CV" output
-			(at 127 106.68 180)
-			(uuid "0197176f-d754-4695-b74f-89d14faa0aea")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(instances
-			(project "DMH-Kosmo-5cm-PCB"
+			(project "DMH_CV_Mixer_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "4")
 				)
@@ -109,7 +89,7 @@
 			)
 		)
 		(instances
-			(project "DMH-Kosmo-5cm-PCB"
+			(project "DMH_CV_Mixer_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "3")
 				)
@@ -152,7 +132,7 @@
 			)
 		)
 		(instances
-			(project "DMH-Kosmo-5cm-PCB"
+			(project "DMH_CV_Mixer_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "2")
 				)
