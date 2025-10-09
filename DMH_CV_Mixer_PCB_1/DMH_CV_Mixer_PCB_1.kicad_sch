@@ -10,6 +10,216 @@
 		(comment 1 "PCB for 5 cm Kosmo format synthesizer module")
 	)
 	(lib_symbols)
+	(wire
+		(pts
+			(xy 50.8 93.98) (xy 63.5 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02e39b95-bc6b-4f3b-8c2e-4ef584642493")
+	)
+	(wire
+		(pts
+			(xy 57.15 99.06) (xy 57.15 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "158160fc-d0ee-403c-bf07-ae89142fca32")
+	)
+	(wire
+		(pts
+			(xy 50.8 109.22) (xy 63.5 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21e66f2c-ab8e-435b-a447-60b41cea1003")
+	)
+	(wire
+		(pts
+			(xy 50.8 104.14) (xy 63.5 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "368b8d7a-60ea-4371-9487-1b2c5354c542")
+	)
+	(wire
+		(pts
+			(xy 50.8 106.68) (xy 63.5 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "548cfe8f-454d-4b6e-8918-e2abe8cb44de")
+	)
+	(wire
+		(pts
+			(xy 50.8 99.06) (xy 57.15 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56159071-4cfa-4e27-af49-f3d40532ee73")
+	)
+	(wire
+		(pts
+			(xy 57.15 88.9) (xy 63.5 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61a9ec41-f445-4b4e-973b-a99e1058d3ef")
+	)
+	(wire
+		(pts
+			(xy 57.15 101.6) (xy 63.5 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77092a0d-ed6a-41b8-aeac-ca042331bfd0")
+	)
+	(wire
+		(pts
+			(xy 57.15 111.76) (xy 57.15 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81049d38-f346-4843-88ed-69552d314c28")
+	)
+	(wire
+		(pts
+			(xy 50.8 83.82) (xy 63.5 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a964a06-2f3d-4b1c-968c-ef671413378b")
+	)
+	(wire
+		(pts
+			(xy 50.8 116.84) (xy 63.5 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91410cb7-72f6-41c2-92c2-e97891135996")
+	)
+	(wire
+		(pts
+			(xy 50.8 78.74) (xy 63.5 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9229d11d-b149-4dcd-9ac4-2cd21e654b50")
+	)
+	(wire
+		(pts
+			(xy 50.8 91.44) (xy 63.5 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95d0d7cc-3cdb-44a6-a570-d037c6798c74")
+	)
+	(wire
+		(pts
+			(xy 50.8 96.52) (xy 63.5 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f096f97-352d-4c8b-b0fb-17536cd45206")
+	)
+	(wire
+		(pts
+			(xy 50.8 81.28) (xy 63.5 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1dbe868-7d66-4f78-b754-b84e130580dd")
+	)
+	(wire
+		(pts
+			(xy 50.8 121.92) (xy 63.5 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bde68628-ae75-4a7d-afae-d839dc3d2d4a")
+	)
+	(wire
+		(pts
+			(xy 57.15 86.36) (xy 57.15 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6016b8d-ddd4-4ed6-9d4f-3425719133ce")
+	)
+	(wire
+		(pts
+			(xy 50.8 111.76) (xy 57.15 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf87dd95-cf25-4b81-a9a0-9e4569658525")
+	)
+	(wire
+		(pts
+			(xy 50.8 86.36) (xy 57.15 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0758188-af10-4f40-a70f-3614c81092ca")
+	)
+	(wire
+		(pts
+			(xy 50.8 119.38) (xy 63.5 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2fb1227-fa68-469f-b73e-b0ad70a4620e")
+	)
+	(wire
+		(pts
+			(xy 57.15 114.3) (xy 63.5 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd72414c-6179-4f41-885e-3ab15a678d31")
+	)
 	(sheet
 		(at 127 88.9)
 		(size 25.4 25.4)
@@ -88,6 +298,156 @@
 				(hide yes)
 			)
 		)
+		(pin "A In 1" input
+			(at 63.5 78.74 180)
+			(uuid "6599b352-47ab-4010-a3a8-9f7b5035fb11")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "A In 2" input
+			(at 63.5 81.28 180)
+			(uuid "5d480cf3-c407-49e0-b58e-7fb189d40317")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "B In 1" input
+			(at 63.5 91.44 180)
+			(uuid "7f92441a-9f51-4308-8b8d-dc7de6af9dce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "B In 2" input
+			(at 63.5 93.98 180)
+			(uuid "107a54c2-d7b5-430b-9eaa-90962412c478")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "C In 1" input
+			(at 63.5 104.14 180)
+			(uuid "7e9dba86-d5d9-4eca-88c9-83ae4300640e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "C In 2" input
+			(at 63.5 106.68 180)
+			(uuid "e809f648-f4d8-402b-9cdf-ae95f26dca32")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D In 1" input
+			(at 63.5 116.84 180)
+			(uuid "28aeef36-8652-44b8-b468-e0da71aca0bc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D In 2" input
+			(at 63.5 119.38 180)
+			(uuid "a8cd222b-09c8-4b20-8f29-1fce0a38e2bb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Out A" output
+			(at 63.5 83.82 180)
+			(uuid "4c176d54-c742-4c39-bc91-83847c3a919b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Out B" output
+			(at 63.5 96.52 180)
+			(uuid "22aa2ab9-1484-4914-b73c-3298e7e9682b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Out C" output
+			(at 63.5 109.22 180)
+			(uuid "767d1b97-16c3-4c4e-b2c9-06b689f54912")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Out D" output
+			(at 63.5 121.92 180)
+			(uuid "d00ac2cb-9dc6-4d18-b6ad-59b6bc6c9123")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "In AB" input
+			(at 63.5 88.9 180)
+			(uuid "f4d99735-972d-44df-b9b3-adfe8db1d083")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "In BC" input
+			(at 63.5 101.6 180)
+			(uuid "5b331dbd-c9fd-4093-8409-ca966b913e86")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "In CD" input
+			(at 63.5 114.3 180)
+			(uuid "7c4ad2d0-ceed-4636-a8a8-4a4422baaee5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "DMH_CV_Mixer_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
@@ -129,6 +489,166 @@
 				)
 				(justify left top)
 				(hide yes)
+			)
+		)
+		(pin "In A1 Jack" output
+			(at 50.8 78.74 0)
+			(uuid "0d10e579-2b22-491c-958d-441590609b03")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "In A2 Jack" output
+			(at 50.8 81.28 0)
+			(uuid "e0f2b6e8-0f43-4352-abf3-cc5f38e138b2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "In B1 Jack" output
+			(at 50.8 91.44 0)
+			(uuid "c3ffa3a6-ced8-496c-b22d-60a560b34aa0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "In B2 Jack" output
+			(at 50.8 93.98 0)
+			(uuid "55e02e4c-8af9-4934-a14e-23497ac1f4b6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "In C1 Jack" output
+			(at 50.8 104.14 0)
+			(uuid "b420f46c-8184-4661-924c-6f7f47fd1dc8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "In C2 Jack" output
+			(at 50.8 106.68 0)
+			(uuid "7d2977e7-7fff-4370-a630-09996504a60f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "In D1 Jack" output
+			(at 50.8 116.84 0)
+			(uuid "e66e0892-fb04-4ed4-9dd7-e388dbbecb88")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "In D2 Jack" output
+			(at 50.8 119.38 0)
+			(uuid "14a2668f-d645-4796-a155-c4ef1c8b79e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Out A Jack" input
+			(at 50.8 83.82 0)
+			(uuid "55d74057-2c2d-4eb1-af24-74314387bb34")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Out A Jack TN" output
+			(at 50.8 86.36 0)
+			(uuid "986d8dfc-3648-4501-9e5c-9174393d3c80")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Out B Jack" input
+			(at 50.8 96.52 0)
+			(uuid "c02e24ec-5aa2-4dfa-a155-185282657137")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Out B Jack TN" output
+			(at 50.8 99.06 0)
+			(uuid "3dc3e324-9667-40c9-bd7e-a6bbcf7a65f1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Out C Jack" input
+			(at 50.8 109.22 0)
+			(uuid "2933f9ec-4d9e-4361-ab20-4268648bd785")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Out C Jack TN" output
+			(at 50.8 111.76 0)
+			(uuid "d9e31e73-69c5-4505-a87f-c40431ddb77d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Out D Jack" input
+			(at 50.8 121.92 0)
+			(uuid "609d7a2f-5da6-4abc-b4d8-e9ad0535e25f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Out D Jack TN" output
+			(at 50.8 124.46 0)
+			(uuid "0a69751b-7237-4539-b547-5491c33156e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
